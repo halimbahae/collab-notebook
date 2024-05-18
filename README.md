@@ -65,7 +65,7 @@ We welcome contributions from everyone. If you'd like to contribute, please foll
 2. **Clone your fork:**
 
    ```bash
-   git clone https://github.com/your-username/collab-Notebook.git
+   git clone https://github.com/halimbahae/collab-Notebook.git
    ```
 
 3. **Create a new branch:**
